@@ -1,0 +1,8 @@
+### This notebook file presents the "Data" that will be used address the Business Problem.
+
+Data
+We will be relying on the Foursqure API to get nieghborhood location data of existing cafes, resturants, bars and other attractions in Newyork City. We will sort the data according to the popularity, tips, customer reviews and ratings. Then we will study the neighborhood of the locations.
+
+We will get a list of buildings, activities and attractions around the locations and correlate which of these compliments the location of a cafe. After we get a set of attractions, we can explore the areas in Newyork which have these attractions but a not a cafe (or a popular cafe) around them.
+
+We will also take in to consideration, the infrastructure, logistics and facilities availability in the area to finialize a location.
