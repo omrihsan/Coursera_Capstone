@@ -1,0 +1,25 @@
+### This notebook file presents the "Introduciton \ Business Problem" to the Capstone Project using the Foursquare API.
+
+
+Introduction
+A recent study has revelaed that the success of a business can be determined even before a business has started its operations. A major determinant of business success is the selection of the location. It is common knowledge that starting a "Ferrari" showroom on a university campus will not yeild the expected returns. A business needs to decide on the best location taking into account factors such as:
+	Customers - is the location convenient for customers?
+
+	Staff - are there sufficient numbers of local staff with the right skills willing to work at the right wage?
+
+	Support services - are there services offering specialist advice, training and support?
+
+	Cost - how much will the premises cost? Those situated in prime locations (such as city centres) are far more 			expensive to rent than edge-of-town premises.
+
+	Infrastructure and Economy of Scale - All businesses need proper infrastructure to function e.g. a telephone company 		would need an electricity meter, fast internet and customer access to function.
+
+	Logistics - In order to bring in raw materials and ship out finished goods, a business must have acces to roads, rails 	and other means of transport.
+
+	Government Facilitation - It is desirable to select places where the government has announced tax holidays and rebates 	on conducting and starting businesses.
+
+	Resource - It is utterly important that the business has the services of the best minds to function and expand. A 		business must be started in a place where the required human capital is available abundantly.
+
+
+Business Problem
+Currently an aspiring business must undertake an extensive, time consuming and exhausting practice to decide on a location to start the operations. Many a times, the exercise is not undertaken seriously because of the effort involved. The result is a business, which has a promising product but due to a bad selection of site operations, the business fails.
+The aim of this project is to address the issue of selection of the best location for starting a cafeteria business and reduce the time and effort that is put in addressing this issue. We will try to select a location keeping in mind all the above parameters. A location which satisfies most items can be selected to run a cafeteria business.
